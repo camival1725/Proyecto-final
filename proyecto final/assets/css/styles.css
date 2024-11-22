@@ -1,0 +1,37 @@
+#Cara-Seca-image {
+  filter: opacity(70%);
+}
+
+#Cara-Seca-image:hover {
+  filter: brightness(100%);
+}
+
+#mixta {
+  filter: opacity(70%);
+}
+
+#mixta:hover {
+  filter: brightness(100%);
+}
+
+#n {
+  filter: opacity(70%);
+}
+
+#n:hover {
+  filter: brightness(100%);
+}
+
+#Tipos {
+  background-color: lightpink;
+  color: #ffb6c1;
+}
+
+#L {
+  color: var(--bs-success);
+}
+
+#L:hover {
+  color: #ffb6c1;
+}
+
